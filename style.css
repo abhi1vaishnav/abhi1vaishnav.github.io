@@ -5,6 +5,7 @@
   color: #035efc;
 }
 
+
 header {
   background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../Background_Image.jpg);
   image-rendering: -webkit-optimize-contrast;
